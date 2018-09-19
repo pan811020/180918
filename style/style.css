@@ -1,0 +1,16 @@
+.bigfont {
+    font-size: 100px ;
+    color: darkgreen;
+}
+.right {
+    text-align:right ;
+}
+#box {
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    background-color: navajowhite;
+}
+div {
+    background-color:rgb(255, 252, 104); 
+ }
