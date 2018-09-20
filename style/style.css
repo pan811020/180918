@@ -14,3 +14,12 @@
 div {
     background-color:rgb(255, 252, 104); 
  }
+
+ /*整個table的調整*/
+ table{
+    border-collapse: collapse;
+    width: 770px; 	
+    /*自動斷行*/
+    word-wrap: break-word;
+    table-layout: fixed;
+}
